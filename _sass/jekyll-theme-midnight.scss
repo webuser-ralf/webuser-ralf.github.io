@@ -15,7 +15,7 @@ body {
   background: linear-gradient(#2a2a29, #1c1c1c);
 }
 
-img[src="FrauPortrait"] {
+img[src*="FrauPortrait"] {
   width: 25%;
   height: auto;
   float: right;
