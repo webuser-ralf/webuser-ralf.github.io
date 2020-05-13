@@ -14,4 +14,4 @@ Deutschland sei das einzige EU-Land ohne allgemeines Tempolimit auf Autobahnen, 
 
 Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 2011 das Ziel gesetzt, die Zahl der Verkehrstoten bis zum Jahr 2020 um 40 Prozent zu senken. "Hiervon ist Deutschland weit entfernt", meint der DVR. Bundesverkehrsminister Andreas Scheuer (CSU) sieht hiesige Autobahnen dagegen als "die sichersten Straßen der Welt" und ist strikt gegen ein Tempolimit. Zuletzt war im Februar eine Initiative für eine allgemeine Höchstgeschwindigkeit auf Fernstraßen gescheitert. 
 
-![Blaulicht](../Bilder/Blaulicht.jpg)
+![Blaulicht](Bilder/Blaulicht.jpg)
