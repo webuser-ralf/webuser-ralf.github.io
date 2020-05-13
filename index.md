@@ -13,3 +13,5 @@ Dieser Wert sei "bereits als Autobahn-Richtgeschwindigkeit bekannt und lässt ei
 Deutschland sei das einzige EU-Land ohne allgemeines Tempolimit auf Autobahnen, betont der DVR. Im Vergleich aller Mitgliedsstaaten auf Basis der OECD-Daten liege die Bundesrepublik in der Verkehrssicherheit auf Autobahnen zudem nur im Mittelfeld. Auf rund 70 Prozent gelte die Richtgeschwindigkeit von 130 km/h.
 
 Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 2011 das Ziel gesetzt, die Zahl der Verkehrstoten bis zum Jahr 2020 um 40 Prozent zu senken. "Hiervon ist Deutschland weit entfernt", meint der DVR. Bundesverkehrsminister Andreas Scheuer (CSU) sieht hiesige Autobahnen dagegen als "die sichersten Straßen der Welt" und ist strikt gegen ein Tempolimit. Zuletzt war im Februar eine Initiative für eine allgemeine Höchstgeschwindigkeit auf Fernstraßen gescheitert. 
+
+![Blaulicht](../Bilder/Blaulicht.jpg)
