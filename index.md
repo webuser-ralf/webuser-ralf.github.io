@@ -7,6 +7,8 @@
 
 ![Frauenportrait](Bilder/FrauPortrait.jpg)
 
+<div style="clear: both;"></div>
+
 Der Deutsche Verkehrssicherheitsrat (DVR) fordert generelle Tempolimits für alle Kfz auf Bundesautobahnen, um die Zahl der Schwerverletzten und Unfalltoten zu reduzieren. Für Pkw ohne Anhänger, Motorräder, Trikes und Quads sowie andere Fahrzeuge bis zu 3,5 t zulässigem Gesamtgewicht biete sich dabei ein Limit von 130 km/h an, heißt es in einem am Dienstag veröffentlichten Beschluss des DVR.
 
 Dieser Wert sei "bereits als Autobahn-Richtgeschwindigkeit bekannt und lässt eine höhere Akzeptanz erwarten", schreibt der DVR. Auf "geeigneten Streckenabschnitten" hält es der Verband für möglich, die zulässige Höchstgeschwindigkeit "mit besonderer Begründung" anzuheben. Der DVR regt an, den Verkehr auf Autobahnen mehr technisch variabel zu beeinflussen, um Witterung, Baustellen, Unfälle, Staugefahr und sonstige Beeinträchtigungen zu entschärfen.
