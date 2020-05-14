@@ -23,7 +23,7 @@ Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 
 | :---- | :---- |
 | Staubsauger | 320 € |
 | Energiesparlampe  | 24 €  |
-| Beatles-Album „Abby Road“ | 30 €  |
+| Beatles-Album „Abbey Road“ | 30 €  |
 
 > Das ist ein Zitat
 >> Das ist ein Zitat
