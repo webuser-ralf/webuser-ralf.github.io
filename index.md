@@ -25,6 +25,8 @@ Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 
 | Energiesparlampe  | 24 €  |
 | Beatles-Album „Abby Road“ | 30 €  |
 
+![Beschriftung](Bilder/FrauPortrait-2.jpg "Sehr hübsche Frau")
+
 [1]:  https://www.heise.de/ct/imgs/04/2/7/9/4/1/8/2/Onlineshopping-31e4a3de2e7aa5ac.png
 [2]:  Bilder/FrauPortrait-2.jpg "Sehr hübsche Frau"
 [3]:  Bilder/Blaulicht.jpg
