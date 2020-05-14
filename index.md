@@ -20,5 +20,7 @@ Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 
 ![Blaulicht](Bilder/Blaulicht.jpg)
 
 | Gerät | Preis |
-| :---- | :---: |
+| :---- | :---- |
 | Staubsauger | 320 € |
+| Energiesparlampe  | 24 €  |
+| Beatles-Album „Abby Road“ | 30 €  |
