@@ -1,6 +1,6 @@
 # Hallo liebes Corona-Imperium!
 
-![Schmetterlinge](https://www.heise.de/ct/imgs/04/2/7/9/4/1/8/2/Onlineshopping-31e4a3de2e7aa5ac.png)
+![Schmetterlinge][1]
 
 ## Autobahnen: Verkehrssicherheitsrat will generelles Tempolimit
 ### Für Pkw ohne Anhänger und Motorräder empfiehlt der Dachverband ein maximales Tempo von 130 km/h auf Autobahnen. Die Zahl der Verkehrsopfer müsse sinken.
@@ -25,8 +25,4 @@ Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 
 | Energiesparlampe  | 24 €  |
 | Beatles-Album „Abby Road“ | 30 €  |
 
-``` {.css .numberLines startFrom="1"}
-  h1 {
-    color: red;
-  }
-```
+[1]:  https://www.heise.de/ct/imgs/04/2/7/9/4/1/8/2/Onlineshopping-31e4a3de2e7aa5ac.png
