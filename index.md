@@ -29,11 +29,11 @@ Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 
 >> Das ist ein Zitat
 >>> Das ist ein Zitat
 
-. Eins
-. Zwei
-. Drei
-  . Vier
-. Fünf
+* Eins
+* Zwei
+* Drei
+ * Vier
+* Fünf
 
 
 [1]:  https://www.heise.de/ct/imgs/04/2/7/9/4/1/8/2/Onlineshopping-31e4a3de2e7aa5ac.png
