@@ -29,11 +29,6 @@ Die Bundesregierung habe sich in ihrem Verkehrssicherheitsprogramm aus dem Jahr 
 >> Das ist ein Zitat
 >>> Das ist ein Zitat
 
-Definitionslisten:
-
-MTA    Der Mail Transfer Agent wird umgangsprachlich als E-Mail-Server bezeichnet. Der MTA kümmert sich darum, E-Mails über das Internet zu versenden bzw. zu empfangen, wobei das Protokoll SMTP eingesetzt wird.
-
-MDA    Der Mail Delivery Agent kümmert sich um die lokale Zustellung von E-Mails, also um die Speicherung der beim MTA eintreffenden E-Mails in lokalen 
 
 [1]:  https://www.heise.de/ct/imgs/04/2/7/9/4/1/8/2/Onlineshopping-31e4a3de2e7aa5ac.png
 [2]:  Bilder/FrauPortrait-2.jpg "Sehr hübsche Frau"
