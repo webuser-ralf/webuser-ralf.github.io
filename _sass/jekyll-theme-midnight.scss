@@ -325,4 +325,8 @@ section {
   nav {
     display: none;
   }
+  
+  td:nth-child(2) {
+    min-width: 30%;  
+  }
 }
