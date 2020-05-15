@@ -1,11 +1,16 @@
 html {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 1rem;
     line-height: 1.5;
 }
 
 body {
     margin: 1.5em;
+}
+
+p {
+    text-align: justify;
+    hyphens: auto;
 }
 
 @for $index from 1 through 6 {
