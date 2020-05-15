@@ -55,6 +55,15 @@ p {
 .nav a {
     display: block;
     text-decoration: none;
+    color: blue;
+}
+
+.nav a:hover {
+    color: red;
+}
+
+.nav a:focus {
+    color: green;
 }
 
 #nav {
