@@ -53,6 +53,14 @@ p {
 }
 
 .nav a {
+    #startseite #navi01 a,
+    #kontaktseite #navi02 a {
+  color: black;
+  background-color: white;
+  border-bottom-color: white;  
+}
+
+.nav a {
     display: block;
     text-decoration: none;
     color: blue;
