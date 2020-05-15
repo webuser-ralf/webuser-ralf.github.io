@@ -1,3 +1,7 @@
+---
+title: Startseite
+...
+
 # Hosting frei Haus
 ## Websites mit und ohne eigener Domain auf GitHub hosten
 
