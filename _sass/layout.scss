@@ -52,6 +52,11 @@ p {
     margin-top: 1.25em;
 }
 
+.nav a {
+    display: block;
+    text-decoration: none;
+}
+
 #nav {
     grid-area: nav;
     display: inline-block;
