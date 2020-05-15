@@ -53,14 +53,6 @@ p {
 }
 
 .nav a {
-    #Startseite #navi01 a,
-    #Bildseite #navi02 a,
-    #Register #navi03 a {
-  color: black;
-  background-color: yellow;   
-}
-
-.nav a {
     display: block;
     text-decoration: none;
     color: blue;
@@ -73,6 +65,15 @@ p {
 .nav a:focus {
     color: green;
 }
+
+.nav a {
+    #Startseite #navi01 a,
+    #Bildseite #navi02 a,
+    #Register #navi03 a {
+  color: black;
+  background-color: yellow;   
+}
+
 
 #nav {
     grid-area: nav;
