@@ -1,5 +1,5 @@
 ---
-title: Ein Beispiel mit Bild
+title: Bildseite
 ---
 
 ## Portrait einer Frau 
