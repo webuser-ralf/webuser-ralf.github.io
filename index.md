@@ -52,10 +52,10 @@ Sollten Sie statt einer Subdomain eine Hauptdomain verwenden wollen, müssen Sie
 Anschließend erreichen Sie Ihre Seite auf beispiel.de. Eventuell dauert es ein paar Minuten, bis die Änderung auf Ihrem Rechner sichtbar wird. Je nachdem, wie lange er oder Ihr Router den DNS-Eintrag zwischenspeichert.
 
 Haben Sie für Ihre Domain einen Eintrag für die DNS Certification Authority Authorization hinterlegt, der ausweist, welche Anbieter für Ihre Domains TLS-­Zertifikate ausstellen dürfen, müssen Sie diesen anpassen. Hier muss, falls das nicht schon der Fall ist, Let’s Encrypt als erlaubter Anbieter eingetragen sein. Ein Beispiel für einen passenden Eintrag mit der Kontaktadresse `mail@beispiel.de` sieht wie folgt aus:
-
+```
 beispiel.de. IN CAA 0 issue "`letsencrypt.org`"
 beispiel.de. IN CAA 0 iodef "`mailto:mail@beispiel.de`"
-
+```
 ### Jekyll in Kürze
 
 Natürlich soll die Seite mehr als nur ein schnödes „Hallo Welt!“ in einem der Standarddesigns von GitHub sein. Ein kleiner Crashkurs im Aufbau einer Jekyll-Seite befähigt Sie, im Handumdrehen schicke Websites zu erzeugen. Ein Beispielrepository, das Sie als Basis für Ihre eigene Seite verwenden können, finden Sie über `ct.de/y2u3`. Dort finden Sie auch weiterführende Informationen zu Jekyll und GitHub-Pages.
