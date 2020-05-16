@@ -61,15 +61,14 @@ p {
 .nav a:hover {
     color: red;   
 }
-/*
+
 #Startseite a#navi01,
 #Bildseite a#navi02,
 #Register a#navi03 {
-  color: black;
-  background-color: lightgray;
+  color: black;  
   display: inline-block;
 }
-*/
+
 #Startseite a#navi01:before,
 #Bildseite a#navi02:before,
 #Register a#navi03:before {
