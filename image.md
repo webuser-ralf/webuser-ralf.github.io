@@ -2,7 +2,7 @@
 title: Bildseite
 ---
 
-## Portrait einer Frau 
+## Portrait einer besonders schönen Frau 
 
 ![Dies ist ein Beispielbild.](assets/images/FrauPortrait.jpg)
 
