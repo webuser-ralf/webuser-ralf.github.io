@@ -53,10 +53,10 @@ p {
 }
 
 .nav a {
-    #Startseite #navi01 a,
-    #Bildseite #navi02 a,
-    #Register #navi03 a {
-  color: black;
+    #Startseite li#navi01 a,
+    #Bildseite li#navi02 a,
+    #Register li#navi03 a {
+  color: green;
   background-color: yellow;   
 }
 
