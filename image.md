@@ -1,5 +1,5 @@
 ---
-title: Bildwahnsinn
+title: Bildseite
 ---
 
 ## Portrait einer Frau 
