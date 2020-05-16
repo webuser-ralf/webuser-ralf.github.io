@@ -55,8 +55,7 @@ p {
 .nav a {
     color: blue;
     text-decoration: none;
-    display: block;
-    margin-left: 5px;
+    display: block;    
 }
 
 .nav a:hover {
@@ -75,7 +74,8 @@ p {
 #Bildseite a#navi02:before,
 #Register a#navi03:before {
   content: "\25B6";
-  margin-left: 5px;
+  margin-left: 10px;
+  line-height: 0;
 }
 
 #nav {
