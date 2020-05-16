@@ -55,7 +55,7 @@ p {
 .nav a {
     color: blue;
     text-decoration: none;
-    display: block;
+    display: inline-block;
 }
 
 .nav a:hover {
@@ -66,7 +66,7 @@ p {
 #Bildseite a#navi02,
 #Register a#navi03 {
   color: black;
-  background-color: gray;   
+  background-color: lightgray;   
 }
 
 #nav {
