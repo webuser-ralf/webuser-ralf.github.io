@@ -52,6 +52,13 @@ p {
     margin-top: 1.25em;
 }
 
+#Startseite a#navi01,
+#Bildseite a#navi02,
+#Register a#navi03 {
+  color: green;
+  background-color: yellow;   
+}
+
 #nav {
     grid-area: nav;
     display: inline-block;
