@@ -42,6 +42,52 @@ Die notwendigen DNS-Änderungen können Sie im Konfigurationsbackend Ihres Hoste
 
 Als Domains können Sie Subdomains wie `www.beispiel.de` oder Hauptdomains wie beispiel.de eintragen. Bei einer Subdomain müssen Sie lediglich einen ­CNAME-Eintrag anlegen, der auf meinbenutzername.github.io verweist. Alle anderen A- oder CNAME-Einträge für die Subdomain müssen Sie löschen.
 
+Sollten Sie statt einer Subdomain eine Hauptdomain verwenden wollen, müssen Sie dazu vier A-Einträge anlegen, die auf folgende IP-Adressen zeigen:
+```
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+```
+Anschließend erreichen Sie Ihre Seite auf beispiel.de. Eventuell dauert es ein paar Minuten, bis die Änderung auf Ihrem Rechner sichtbar wird. Je nachdem, wie lange er oder Ihr Router den DNS-Eintrag zwischenspeichert.
+
+Haben Sie für Ihre Domain einen Eintrag für die DNS Certification Authority Authorization hinterlegt, der ausweist, welche Anbieter für Ihre Domains TLS-­Zertifikate ausstellen dürfen, müssen Sie diesen anpassen. Hier muss, falls das nicht schon der Fall ist, Let’s Encrypt als erlaubter Anbieter eingetragen sein. Ein Beispiel für einen passenden Eintrag mit der Kontaktadresse `mail@beispiel.de` sieht wie folgt aus:
+
+beispiel.de. IN CAA 0 issue "`letsencrypt.org`"
+beispiel.de. IN CAA 0 iodef "`mailto:mail@beispiel.de`"
+
+### Jekyll in Kürze
+
+Natürlich soll die Seite mehr als nur ein schnödes „Hallo Welt!“ in einem der Standarddesigns von GitHub sein. Ein kleiner Crashkurs im Aufbau einer Jekyll-Seite befähigt Sie, im Handumdrehen schicke Websites zu erzeugen. Ein Beispielrepository, das Sie als Basis für Ihre eigene Seite verwenden können, finden Sie über `ct.de/y2u3`. Dort finden Sie auch weiterführende Informationen zu Jekyll und GitHub-Pages.
+
+In dem Repository finden Sie vier Ordner. In _includes landen HTML-Dateien, deren Inhalt Sie an beliebigen Stellen im Layout einbinden wollen. Das ist bei Seiten- oder Navigationsleisten sinnvoll, wie die Leiste in der Datei _nav.html illustriert. So kann man Elemente an einer zentralen Stelle bearbeiten und sie werden im gesamten Layout geändert.
+
+Im Ordner _sass finden Sie zwei Sass-­Dateien. Auch Dateien dieser Stylesheet-­Sprache kann Jekyll verarbeiten, zusammenfügen und in eine CSS-Datei konvertieren. Damit deren Einbindung aber stattfindet, liegt in assets/css/ die Datei styles.scss. Sie enthält zwei @import-Zeilen, die die beiden Stylesheets aus dem Ordner _sass einbinden.
+
+Nun braucht es aber einen Trick, damit Jekyll die Datei korrekt interpretiert. Am Anfang der Datei stehen zweimal drei Minuszeichen mit einer Leerzeile dazwischen. Das ist ein sogenannter Front-Matter-Block, in dem Metadaten und Variablen im YAML-Format für die Seite hinterlegt sind. Dateien mit einem solchen Abschnitt jagt Jekyll in jedem Fall durch seine interne Verarbeitung. Nur so lässt er sich überreden, die SASS-Style­sheets zusammenzufassen. Die Summe der SASS-Anweisungen als CSS ist nach der Verarbeitung über den Pfad /assets/css/styles.css zu erreichen. Man beachte die geänderte Endung. So steht sie auch in der Datei default.html als Style­sheet-Verweis.
+
+Der Ordner _layouts enthält ein oder mehrere HTML-Dateien mit Basislayouts. Darin finden Sie den HTML-Rahmen der Seite wieder. Das Beispiel enthält lediglich das Standdardlayout default.html. Darin finden Sie eine einfache HTML5-Seite mit drei Schlüsselwörtern. Diese weisen Jekyll an, bestimmte Werte oder Inhalte einzufügen. Innerhalb des <title>-Tags liegt die Zeile {{ page.title | default: site.title }}. Sie ist der Platzhalter entweder für den Titel einer einzelnen Seite (page.title) oder der gesamten Website (site.title) . Diese Variablen werden teils automatisch bestimmt oder lassen sich im Front-Matter-Block befüllen – dazu gleich mehr. Ist kein Seitentitel gesetzt, fällt Jekyll auf die erste Überschrift im Text zurück. Die Navigationsleiste aus dem _includes-Ordner bindet {% include nav.html %} ein. Das Schlüsselwort {{ content }} etwas weiter unten bestimmt, wo die Inhalte der Markdown-Dateien im Hauptverzeichnis des Repos landen.
+
+Neben den bereits erwähnten Dateien, CNAME und _config.yml liegen noch zwei Markdown-Dateien im Hauptverzeichnis. Die Datei index.md bestimmt den Inhalt der Startseite. Die Datei image.md zeigt die Einbindung eines Bildes. Beide Seiten sind nach der Umwandlung über index.html beziehungsweise image.html erreichbar. Dort aber eben mit dem Rahmenlayout aus der default.html.
+
+In der index.md finden Sie nur einen einfachen Beispieltext. Ein Blick in die image.md offenbart einen Front-Matter-Block, in dem ein Titel und das Layout hinterlegt ist. Das Layout steht auf default, was redundant ist und nur als Beispiel dient, denn der Wert ist ohnehin die Vorgabe. Die Variable title bestimmt den Wert von page.title, der im <title>-Tag der Seite erscheint.
+
+Wenn Sie eine neue Markdown-Datei erstellen, ist diese kurz darauf unter `meinbenutzername.github.io/neuedatei.html` sichtbar.
+
+Die Datei _config.yml enthält im Beispiel keine Theme-Definition, dafür aber Optionen für den Ort und die Verarbeitung der SASS-Dateien sowie einen globalen Seitentitel. Fehlt dieser, nimmt GitHub den Namen des Repositorys.
+
+### Mehr machen
+
+Jekyll und damit GitHub Pages können wahnsinnig viele Dinge, weit mehr, als dieser Artikel auflisten könnte. Jekyll ist sogar so flexibel, dass man damit auch ein kleines Blog betreiben kann. Für einen tieferen Einstieg bietet sich nicht nur ein Blick in die Jekyll-Doku an, sondern auch in andere Jekyll-Projekte. Übrigens brauchen Sie keine weiteren Accounts anlegen, wenn Sie mehrere Seiten hosten möchten. Weitere GitHub-Pages-Repos erscheinen automatisch unter `meinbenutzername.github.io/namedesrepo`. Sie können diese ebenfalls so einrichten, dass sie über eigene Domains erreichbar sind.
+
+**Beispiel und Dokumentation:** [ct.de/y2u3][1]
+
+
+[1]:  https://www.heise.de/select/ct/2020/11/softlinks/y2u3?wt_mc=pred.red.ct.ct112020.162.softlink.softlink
+
+
+
+
 
 
 
