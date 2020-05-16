@@ -53,8 +53,8 @@ Anschließend erreichen Sie Ihre Seite auf beispiel.de. Eventuell dauert es ein 
 
 Haben Sie für Ihre Domain einen Eintrag für die DNS Certification Authority Authorization hinterlegt, der ausweist, welche Anbieter für Ihre Domains TLS-­Zertifikate ausstellen dürfen, müssen Sie diesen anpassen. Hier muss, falls das nicht schon der Fall ist, Let’s Encrypt als erlaubter Anbieter eingetragen sein. Ein Beispiel für einen passenden Eintrag mit der Kontaktadresse `mail@beispiel.de` sieht wie folgt aus:
 ```
-beispiel.de. IN CAA 0 issue "`letsencrypt.org`"
-beispiel.de. IN CAA 0 iodef "`mailto:mail@beispiel.de`"
+beispiel.de. IN CAA 0 issue "letsencrypt.org"
+beispiel.de. IN CAA 0 iodef "mailto:mail@beispiel.de"
 ```
 ### Jekyll in Kürze
 
