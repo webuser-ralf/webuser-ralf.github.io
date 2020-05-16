@@ -14,7 +14,8 @@ p {
 }
 
 blockquote p {
-    background: lightgray;   
+    margin-left: 10px;
+    border-left: 2px solid lightgray;
 }
 
 @for $index from 1 through 6 {
