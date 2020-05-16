@@ -61,7 +61,7 @@ p {
 .nav a:hover {
     color: red;   
 }
-
+/*
 #Startseite a#navi01,
 #Bildseite a#navi02,
 #Register a#navi03 {
@@ -69,12 +69,12 @@ p {
   background-color: lightgray;
   display: inline-block;
 }
-
+*/
 #Startseite a#navi01:before,
 #Bildseite a#navi02:before,
 #Register a#navi03:before {
   content: "\25B6";
-  margin-left: 10px;
+  margin-right: 5px;
   line-height: 0;
 }
 
