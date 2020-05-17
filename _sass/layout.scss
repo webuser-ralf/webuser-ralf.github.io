@@ -20,23 +20,23 @@ hr {
     margin: 10px 0 10px 0;
 }
 
-.ul-abstand {
-    margin-top: 50px;   
-}
-
 ul {
     padding-left: 0;
     list-style-type: none;
 }
 
 ul li {
-    font-weight: bold;   
+    font-weight: bold;
+    color: #ffffff;
+    background: #000000;
 }
 
 ul li li {
     font-weight: normal;
     list-style-type: disc;
     margin-left: 20px;
+    color: #000000;
+    background: #ffffff;
 }
 
 blockquote p {
