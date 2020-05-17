@@ -16,8 +16,8 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 
 
-* ENTSORGUNG
-* <span>Tätigkeit als Chemiefachkraft und Fahrer:</span>
+* <span>ENTSORGUNG</span>
+* *Tätigkeit als Chemiefachkraft und Fahrer:*
   * Klassifizierung, Sortierung und Verpackung von Sonder- sowie Problemabfällen im Innen- und Außendienst gemäß den einschlägigen GGVS-Regelwerken und den Vorgaben der Entsorgungsanlagen
   * Selbstständige Auftragsabwicklung und Zusammenstellung der Begleitpapiere für die Transporttouren
   * Transport von Sonderabfällen und Chemierückständen als Stückgut und in Tanks mit Solofahrzeugen, also ohne Anhänger oder Sattelauflieger
