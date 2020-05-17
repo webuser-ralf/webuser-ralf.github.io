@@ -17,12 +17,12 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 * 10/2005 – 05/2008
 * BAYER AG, Leverkusen
- * Überwiegend im Labor
- * Reinigungstätigkeiten
+  * Überwiegend im Labor
+  * Reinigungstätigkeiten
 * 06/2008 – 02/2012
 * Opel AG, Rüsselsheim
- * Montage
- * Bürotätigkeiten
+  * Montage
+  * Bürotätigkeiten
  
 
 <div></div>
