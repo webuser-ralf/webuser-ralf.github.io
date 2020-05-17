@@ -17,6 +17,10 @@ ul li {
     font-weight: bold;   
 }
 
+ul li:nth-child(1n) {
+    margin-top: 10px;   
+}
+
 ul li li {
     font-weight: normal;   
 }
