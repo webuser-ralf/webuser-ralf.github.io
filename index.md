@@ -16,21 +16,13 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 **Beispiel und Dokumentation:** [ct.de/y2u3][1]
 
-* 10/2005 – 05/2008
-* BAYER AG, Leverkusen
-  * Tätigkeiten:
-  * Überwiegend im Labor
-* 06/2008 – 02/2012
-* VW AG, Wolfsburg
-  * Tätigkeiten:
-  * Am Fließband
-  * Bürotätigkeiten
-  * Einkauf
-* 03/2012 – 07/2019
-* Opel AG, Rüsselsheim
-  * Tätigkeiten:
-  * Montage
-  * Reinigungstätigkeiten
+<ul>
+ <li>10/2005 – 05/2008</li>
+ <li class="li-abstand">BAYER AG, Leverkusen<ul>
+  <li>Überwiegend im Labor</li>
+  <li>Reinigungstätigkeiten</ul></li>
+</ul>
+
 
 
 [1]:  https://www.heise.de/select/ct/2020/11/softlinks/y2u3?wt_mc=pred.red.ct.ct112020.162.softlink.softlink
