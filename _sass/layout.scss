@@ -10,9 +10,10 @@ body {
 /*###############################*/
 
 table {
+  overflow: scroll;
   border-collapse: collapse;
   border-spacing: 0;
-  width: 100%;
+  width: 800px;
   border: 1px solid #ddd;
 }
 
