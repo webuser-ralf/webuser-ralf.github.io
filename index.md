@@ -16,7 +16,7 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 
 
-* <span>ENTSORGUNG</span>
+* <span>Entsorgung</span>
 * *Tätigkeit als Chemiefachkraft und Fahrer:*
   * Klassifizierung, Sortierung und Verpackung von Sonder- sowie Problemabfällen im Innen- und Außendienst gemäß den einschlägigen GGVS-Regelwerken und den Vorgaben der Entsorgungsanlagen
   * Selbstständige Auftragsabwicklung und Zusammenstellung der Begleitpapiere für die Transporttouren
