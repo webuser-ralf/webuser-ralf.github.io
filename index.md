@@ -17,18 +17,33 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 
 * <span>Entsorgung</span>
-* *Tätigkeit als Chemiefachkraft und Fahrer:*
+* Tätigkeit als Chemiefachkraft und Fahrer:
   * Klassifizierung, Sortierung und Verpackung von Sonder- sowie Problemabfällen im Innen- und Außendienst gemäß den einschlägigen GGVS-Regelwerken und den Vorgaben der Entsorgungsanlagen
   * Selbstständige Auftragsabwicklung und Zusammenstellung der Begleitpapiere für die Transporttouren
   * Transport von Sonderabfällen und Chemierückständen als Stückgut und in Tanks mit Solofahrzeugen, also ohne Anhänger oder Sattelauflieger
   <hr />
-* 06/2008 – 02/2012
-* Opel AG, Rüsselsheim
-  * Montage
-  * Bürotätigkeiten
- 
+<span>Produktion</span>
+* Einsatz als angelernte Lagerkraft auf der Lkw-Waage:
+  * Annahme und Verwiegung verschiedener Rohstoffe
+  * Versand von Metall-Legierungen und Fertigprodukten
+  * Erstellen, Bearbeiten und Buchen der Wareneingangs- und Transportpapiere
+  * Verladetätigkeiten mit Gabelstaplern
+  <hr />
+<span>Soziale Einrichtung</span>
+* Renovierungstätigkeiten, leichte Instandsetzungsarbeiten sowie Tätigkeiten im Lagerbereich:
+  * Be- und Entladen von Fahrzeugen
+  * Transportieren von Waren zwischen Lager und Verkauf
+  * Lager- und transportfähiges Verpacken von zerlegten Schränken auf Paletten
+  * Reinigen verschmutzter Möbel, weißer Ware und von Kleinteilen
+  <hr />
+<span>Soziale Einrichtung</span>
+* Chemische Analytik:
+  * Als gelernter Chemielaborant arbeitete ich lange Zeit im Labor.
 
-<div></div>
+
+
+
+
 
 **Beispiel und Dokumentation:** [ct.de/y2u3](https://www.heise.de/select/ct/2020/11/softlinks/y2u3?wt_mc=pred.red.ct.ct112020.162.softlink.softlink)
  
