@@ -18,11 +18,13 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 10/2005 – 05/2008
 :     BAYER AG, Leverkusen
+
 Tätigkeiten:
 :     Überwiegend im Labor
 
 06/2008 – 02/2012
 :     VW AG, Wolfsburg
+
 Tätigkeiten:
 :     Am Fließband
 
