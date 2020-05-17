@@ -19,7 +19,7 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 * BAYER AG, Leverkusen
   * Überwiegend im Labor
   * Reinigungstätigkeiten
-  <hr>
+  <hr />
 * 06/2008 – 02/2012
 * Opel AG, Rüsselsheim
   * Montage
