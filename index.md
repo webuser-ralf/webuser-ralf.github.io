@@ -16,19 +16,17 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 **Beispiel und Dokumentation:** [ct.de/y2u3][1]
 
-Beatles
-:     Popgruppe
+10/2005 – 05/2008
+:     BAYER AG, Leverkusen
+Tätigkeiten:
+:     Überwiegend im Labor
 
-Bedeutung
-:     Sehr gute Musik
+06/2008 – 02/2012
+:     VW AG, Wolfsburg
+Tätigkeiten:
+:     Am Fließband
 
-<div></div>
 
-Beatles
-:     Popgruppe
-
-Bedeutung
-:     Sehr gute Musik
 
 
 
