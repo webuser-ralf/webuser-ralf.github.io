@@ -21,10 +21,6 @@ Beatles
 Bedeutung
 :     Sehr gute Musik
 
-Beatles
-:     Popgruppe
-Bedeutung
-:     Sehr gute Musik
 
 
 [1]:  https://www.heise.de/select/ct/2020/11/softlinks/y2u3?wt_mc=pred.red.ct.ct112020.162.softlink.softlink
