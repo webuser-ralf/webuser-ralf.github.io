@@ -13,12 +13,12 @@ p {
     hyphens: auto;
 }
 
-ul li {
-    font-weight: bold;   
+ul {
+    display: inline-block;  
 }
 
-.li-abstand {
-    padding-top: 20px;   
+ul li {
+    font-weight: bold;   
 }
 
 ul li li {
