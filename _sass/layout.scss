@@ -2,12 +2,12 @@ html {
     font-family: Arial, sans-serif;
     font-size: 1rem;
     line-height: 1.5;
-    background: gray;
+    
 }
 
 body {
     margin: 1.5em;
-    /*background: url(assets/images/bg.png) 0 0 repeat;*/
+    
    
 }
 
@@ -61,8 +61,7 @@ blockquote p {
 
 #frame {
     width: 100%;
-    max-width: 600px;
-    background: #fff;
+    max-width: 600px;    
     margin: 0 auto;
     display: grid;
     grid-template-areas:
