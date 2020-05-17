@@ -18,9 +18,13 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
 
 <ul>
  <li>10/2005 – 05/2008</li>
- <li class="li-abstand">BAYER AG, Leverkusen<ul>
+ <li>BAYER AG, Leverkusen<ul>
   <li>Überwiegend im Labor</li>
-  <li>Reinigungstätigkeiten</ul></li>
+  <li>Reinigungstätigkeiten</li></ul>
+<li class="li-anstand">06/2008 – 02/2012</li>
+ <li>Opel AG, Rüsselsheim<ul>
+  <li>Montage</li>
+  <li>Bürotätigkeiten</li></ul>
 </ul>
 
 
