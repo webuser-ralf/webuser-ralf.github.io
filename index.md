@@ -22,23 +22,22 @@ Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit ma
   * Selbstständige Auftragsabwicklung und Zusammenstellung der Begleitpapiere für die Transporttouren
   * Transport von Sonderabfällen und Chemierückständen als Stückgut und in Tanks mit Solofahrzeugen, also ohne Anhänger oder Sattelauflieger
  
-<span>Produktion</span>
+* <span>Produktion</span>
 * Einsatz als angelernte Lagerkraft auf der Lkw-Waage:
   * Annahme und Verwiegung verschiedener Rohstoffe
   * Versand von Metall-Legierungen und Fertigprodukten
   * Erstellen, Bearbeiten und Buchen der Wareneingangs- und Transportpapiere
   * Verladetätigkeiten mit Gabelstaplern
   
-<span>Soziale Einrichtung</span>
+* <span>Soziale Einrichtung</span>
 * Renovierungstätigkeiten, leichte Instandsetzungsarbeiten sowie Tätigkeiten im Lagerbereich:
   * Be- und Entladen von Fahrzeugen
   * Transportieren von Waren zwischen Lager und Verkauf
   * Lager- und transportfähiges Verpacken von zerlegten Schränken auf Paletten
   * Reinigen verschmutzter Möbel, weißer Ware und von Kleinteilen
   
-<span>Soziale Einrichtung</span>
-* Chemische Analytik:
-  * Als gelernter Chemielaborant arbeitete ich lange Zeit im Labor.
+* <span>Chemische Analytik</span>
+* Als gelernter Chemielaborant arbeitete ich lange Zeit im Labor.
 
 
 
