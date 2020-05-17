@@ -16,9 +16,11 @@ p {
 dl {
     margin: 15px 0 15px 15px;
     background: lightgray;
+    padding: 5px;
+    display: inline-block;
 }
 
-dt, dd {
+dt {
     font-weight: bold;    
 }
 
