@@ -30,7 +30,9 @@ ul li {
 }
 
 ul li li {
-    font-weight: normal;   
+    font-weight: normal;
+    list-style-type: disk;
+    padding-left: 10px;
 }
 
 blockquote p {
