@@ -13,6 +13,14 @@ p {
     hyphens: auto;
 }
 
+ul li {
+    font-weight: bold;   
+}
+
+ul li li {
+    font-weight: normal;   
+}
+
 blockquote p {
     padding-left: 15px;
     border-left: 5px solid lightgray;
