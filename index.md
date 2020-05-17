@@ -15,7 +15,7 @@ Hosting-Angebote für die eigene Website gibt es wie Sand am Meer. Hat man keine
 Ein paar Haken hat die Sache aber dennoch: Zum einen kann man nur Dateien mit maximal 100 MByte hochladen. Wer also etwa ein größeres Video einbinden will, ist mit YouTube besser bedient. Soll die Website von nicht-technikaffinen Menschen betreut werden, stellt man diese vor eine große Aufgabe, denn GitHub bietet keinen hübschen WYSIWYG-­Editor, sondern nur einen simplen Texteditor mit einer einfachen Vorschaufunktion für Markdown und HTML-Dateien. Immerhin kann man jede noch so verhunzte Änderung durch die Versionskontrolle wieder rückgängig machen. Wer den kostenlosen Tarif von GitHub nutzt, muss sein Repository für die Website öffentlich machen. Das ist nur dann ein Problem, wenn man Inhalte anbieten will, die nicht für die Öffentlichkeit bestimmt sind. Vermutlich ist GitHub dann aber eh die falsche Wahl.
 
 **Beispiel und Dokumentation:** [ct.de/y2u3][1]
-
+<hr>
 Beatles
 :     Popgruppe
 
