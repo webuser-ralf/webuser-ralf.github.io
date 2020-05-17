@@ -22,7 +22,7 @@ Beatles
 Bedeutung
 :     Sehr gute Musik
 
-<hr>
+<div></div>
 
 Beatles
 :     Popgruppe
