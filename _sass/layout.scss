@@ -21,7 +21,7 @@ dt {
     font-weight: bold;    
 }
 
-dt:nth-child(2n) {
+dt:nth-child(2n+1) {
     font-weight: normal;  
 }
 
