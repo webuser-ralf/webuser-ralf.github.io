@@ -8,6 +8,12 @@ body {
     margin: 1.5em;
 }
 
+a#navi01,
+a#navi02,
+a#navi03 {
+   display: block; 
+}
+
 @for $index from 1 through 6 {
     h#{$index} {
         font-weight: 200;
