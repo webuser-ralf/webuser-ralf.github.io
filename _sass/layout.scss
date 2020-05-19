@@ -10,15 +10,21 @@ body {
 
 /* Navigation */
 
-#nav a {
-    color: blue;
-    text-decoration: none;
-    display: block;    
+a#navi01,
+a#navi02,
+a#navi03 {
+   display: block;
+   color: blue;
+   text-decoration: none;
 }
 
-#nav a:hover {
-    color: red;   
+a#navi01:hover,
+a#navi02:hover,
+a#navi03:hover {
+   color: red;  
 }
+
+/* ENDE Navigation */
 
 @for $index from 1 through 6 {
     h#{$index} {
