@@ -8,10 +8,16 @@ body {
     margin: 1.5em;
 }
 
-a#navi01,
-a#navi02,
-a#navi03 {
-   display: block; 
+/* Navigation */
+
+#nav a {
+    color: blue;
+    text-decoration: none;
+    display: block;    
+}
+
+#nav a:hover {
+    color: red;   
 }
 
 @for $index from 1 through 6 {
